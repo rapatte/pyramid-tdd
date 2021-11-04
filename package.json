@@ -1,0 +1,19 @@
+{
+  "name": "pyramid-tdd",
+  "version": "1.0.0",
+  "description": "fonction qui console log une pyramid avec n étages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapatte/pyramid-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rapatte/pyramid-tdd/issues"
+  },
+  "homepage": "https://github.com/rapatte/pyramid-tdd#readme"
+}
